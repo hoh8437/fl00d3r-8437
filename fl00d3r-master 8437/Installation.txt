@@ -1,0 +1,11 @@
+git clone https://github.com/hoh8437/fl00d3r-8437.git
+
+ls
+
+cd fl00d3r
+
+pip install requests
+
+pip install colorama
+
+python3 main.py
